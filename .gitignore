@@ -1,0 +1,7 @@
+#Django01-IP2Geo/.gitignore
+
+generic_venv
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
